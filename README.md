@@ -11,7 +11,7 @@ The goal is to create a comprehensive collection of Tamil resources for various 
 - **Tokenizers**: 
   - Unigram Tokenizer (12,000 vocab)
   - BPE (Byte Pair Encoding) Tokenizer (55,000 vocab)
-- **Tamil Text Dataset**: A collection of Tamil literary texts, including data from Tamil Sangam and other Tamil scriptures.(it's all mixed together will take some time to preprocess and publish)
+- **Tamil Text Dataset**: A collection of Tamil literary texts, including data from Tamil Sangam and other Tamil scriptures.(it's all mixed together will take some time to preprocess and publish, contributions are welcomed.)
 
 ---
 

@@ -3,7 +3,7 @@
 
 This repository contains a custom tokenizer designed specifically for the Tamil language, along with a vast collection of Tamil resources, including literary texts and other datasets. The tokenizer is built to handle both Unigram and BPE (Byte Pair Encoding) tokenization methods, optimized for processing and understanding Tamil texts.
 
-The goal is to create a comprehensive collection of Tamil resources for various purposes, including research, general use, and more. While the tokenizer is being developed to support TamilBERT, the TamilBERT development is separate, and the community is encouraged to explore and try out new ideas, contribute to the tokenizer, and experiment with Tamil language models for different applications and use cases.
+The goal is to create a comprehensive collection of Tamil resources for various purposes, including research, general use, and more. While the tokenizer is being developed to support TamilBERT, the TamilBERT development is separate, and the community is encouraged to explore and try out new ideas, contribute to the tokenizer/developing model, adding literary tamil sources and experiment with Tamil language models for different applications and use cases.
 
 ---
 ## Contents
